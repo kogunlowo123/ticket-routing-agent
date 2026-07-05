@@ -48,6 +48,11 @@ Intelligent ticket routing agent that classifies incoming IT tickets, assigns pr
 
 ## Architecture
 
+![7-Layer Architecture](docs/diagrams/architecture-7-layer.png)
+
+*Where RAG sits in the stack — the 7-layer enterprise AI agent architecture.*
+
+
 ```
 ticket-routing-agent/
 │
